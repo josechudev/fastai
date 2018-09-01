@@ -208,7 +208,7 @@ def fix_missing(df, col, name, na_dict):
     which specifies if the data was missing.
 
     Parameters:
-    -----------
+    ----------
     df: The data frame that will be changed.
 
     col: The column of data to fix by filling in missing data.
